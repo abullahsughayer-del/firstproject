@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="٢٠٢٦-٠٣-٢٥T٢٢:٣١:٣٩ TRT" name="Default suite" finished-at="٢٠٢٦-٠٣-٢٥T٢٢:٣٢:٠٠ TRT" duration-ms="21366">
+    <groups>
+    </groups>
+    <test started-at="٢٠٢٦-٠٣-٢٥T٢٢:٣١:٣٩ TRT" name="Default test" finished-at="٢٠٢٦-٠٣-٢٥T٢٢:٣٢:٠٠ TRT" duration-ms="21366">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="mysetup()[pri:0, instance:MyTestCases@7cbc3762]" started-at="٢٠٢٦-٠٣-٢٥T٢٢:٣١:٣٩ TRT" name="mysetup" finished-at="٢٠٢٦-٠٣-٢٥T٢٢:٣١:٥٦ TRT" duration-ms="17871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mysetup -->
+        <test-method signature="UpdateTheDate()[pri:1, instance:MyTestCases@7cbc3762]" started-at="٢٠٢٦-٠٣-٢٥T٢٢:٣١:٥٧ TRT" name="UpdateTheDate" finished-at="٢٠٢٦-٠٣-٢٥T٢٢:٣١:٥٩ TRT" duration-ms="2167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateTheDate -->
+        <test-method signature="ReadTheDateInsideTheBrowser()[pri:2, instance:MyTestCases@7cbc3762]" started-at="٢٠٢٦-٠٣-٢٥T٢٢:٣١:٥٩ TRT" name="ReadTheDateInsideTheBrowser" finished-at="٢٠٢٦-٠٣-٢٥T٢٢:٣٢:٠٠ TRT" duration-ms="1129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadTheDateInsideTheBrowser -->
+        <test-method is-config="true" signature="AfterMytest()[pri:0, instance:MyTestCases@7cbc3762]" started-at="٢٠٢٦-٠٣-٢٥T٢٢:٣٢:٠٠ TRT" name="AfterMytest" finished-at="٢٠٢٦-٠٣-٢٥T٢٢:٣٢:٠٠ TRT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMytest -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
